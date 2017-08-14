@@ -18,10 +18,12 @@
   <figcaption>File: folderName/fileName.rb</figcaption>
   {% highlight ruby %}
   def print_hi(name)
-    puts "Hi, #{name}"
+    puts "Hi, #{name}cvv"
   end
   {% endhighlight %}
-</figure>
+    puts "Hi, #{name}cvv"
+</figure>vccccccccccccccccc
+</figure>vcccccccccccccccccvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 <hr>
 ```ruby title:"A test." mark:1,2

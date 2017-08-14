@@ -9,3 +9,16 @@
 
 <hr>
 <a target="_blank" href="https://github.com/octopress/codeblock">https://github.com/octopress/codeblock</a>
+
+
+<hr>
+<a target="_blank" href="https://github.com/octopress/solarized">https://github.com/octopress/solarized</a>
+
+<figure>
+  <figcaption>File: folderName/fileName.rb</figcaption>
+  {% highlight ruby %}
+  def print_hi(name)
+    puts "Hi, #{name}"
+  end
+  {% endhighlight %}
+</figure>

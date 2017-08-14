@@ -22,3 +22,9 @@
   end
   {% endhighlight %}
 </figure>
+
+```ruby title:"A test." mark:1,2
+def test(to_print)
+  puts to_print
+end
+```
